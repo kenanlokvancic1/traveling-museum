@@ -1,0 +1,8 @@
+{
+  "reporter": ["text", "html"],
+  "report-dir": "./coverage",
+  "all": true,
+  "include": ["services/**/*.js", "controllers/**/*.js"],
+  "exclude": ["tests/**/*.js", "migrations/**/*.js", "seeders/**/*.js"],
+  "extension": [".js"]
+}

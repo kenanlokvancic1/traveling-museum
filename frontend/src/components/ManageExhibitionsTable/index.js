@@ -1,0 +1,1 @@
+export {default as ManageExhibitionsTable } from "./ManageExhibitionsTable";
